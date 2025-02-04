@@ -14,6 +14,11 @@ Controle de Versão
 CMS
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/> </div>
 
+
+## 📊 Estatísticas do GitHub  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosousaa&show_icons=true&locale=pt-br&layout=compact)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavosousaa&show_icons=true&theme=dracula)
+
 📫 Contato
 📧 E-mail: gustavosousa4@outlook.com.br
 🔗 LinkedIn: linkedin.com/in/gustavoteixeiraa
