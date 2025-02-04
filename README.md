@@ -2,6 +2,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender novas linguagens e aprimorar minhas habilidades. Sou proativo, gosto de trabalhar em equipe e estou sempre disposto a enfrentar novos desafios no mundo do desenvolvimento.
 
 🚀 Sobre mim
+
 💡 Apaixonado por desenvolvimento web e novas tecnologias
 🤝 Trabalho bem em equipe e gosto de compartilhar conhecimento
 📚 Sempre aprendendo novas linguagens e frameworks
