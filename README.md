@@ -16,8 +16,7 @@ CMS
 
 
 ## 📊 Estatísticas do GitHub  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosousaa&show_icons=true&locale=pt-br&layout=compact)  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavosousaa&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosousaa&show_icons=true&locale=pt-br&layout=compact) 
 
 📫 Contato
 📧 E-mail: gustavosousa4@outlook.com.br
