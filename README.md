@@ -4,9 +4,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender novas l
 🚀 Sobre mim
 
 💡 Apaixonado por desenvolvimento web e novas tecnologias
-
 🤝 Trabalho bem em equipe e gosto de compartilhar conhecimento
-
 📚 Sempre aprendendo novas linguagens e frameworks
 
 🛠️ Tecnologias
