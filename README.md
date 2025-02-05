@@ -16,7 +16,6 @@ Controle de Versão
 
 CMS
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elementor_logo.svg/512px-Elementor_logo.svg.png" width="40" height="40" alt="Elementor"/> </div>
-
 ## 📊 Estatísticas do GitHub  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosousaa&show_icons=true&locale=pt-br&layout=compact) 
 
