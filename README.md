@@ -15,7 +15,7 @@ Controle de Versão
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> </div>
 
 CMS
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elementor_logo.svg/512px-Elementor_logo.svg.png" width="40" height="40" alt="Elementor"/> </div>
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/> </div>
 
 ## 📊 Estatísticas do GitHub  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosousaa&show_icons=true&locale=pt-br&layout=compact) 
