@@ -1,26 +1,45 @@
-👋 Olá! Eu sou o Gustavo Sousa
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender novas linguagens e aprimorar minhas habilidades. Sou proativo, gosto de trabalhar em equipe e estou sempre disposto a enfrentar novos desafios no mundo do desenvolvimento.
+## 👋 Olá! Eu sou o Gustavo Sousa
 
-🚀 Sobre mim
+Sou **Desenvolvedor Front-end**, com foco em **React.js, TypeScript e JavaScript**, atuando no desenvolvimento de **interfaces modernas, responsivas e performáticas**.
 
-💡 Apaixonado por desenvolvimento web e novas tecnologias
-🤝 Trabalho bem em equipe e gosto de compartilhar conhecimento
-📚 Sempre aprendendo novas linguagens e frameworks
+Tenho experiência prática na criação de **aplicações front-end**, **landing pages**, integração com **APIs REST** e aplicação de **boas práticas de código**, sempre buscando qualidade, organização e uma boa experiência do usuário.
 
-🛠️ Tecnologias
-Front-end
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> </div>
+---
 
-Controle de Versão
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> </div>
+## 🚀 Tecnologias e Ferramentas
 
-CMS
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/> </div>
+### Front-end
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-## 📊 Estatísticas do GitHub  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosousaa&show_icons=true&locale=pt-br&layout=compact) 
+### Controle de versão
+- Git
+- GitHub
 
-📫 Contato
-📧 E-mail: gustavosousa4@outlook.com.br
-🔗 LinkedIn: linkedin.com/in/gustavoteixeiraa
+### Design e CMS
+- Figma
+- WordPress
+- Elementor
 
+---
+
+## 🧠 O que eu faço bem
+- Componentização e organização de código em React
+- Criação de interfaces responsivas
+- Integração com APIs REST
+- Atenção à performance e usabilidade
+- Trabalho colaborativo e versionamento com Git
+
+---
+
+## 📌 Objetivo profissional
+Atualmente busco uma **oportunidade CLT como Desenvolvedor Front-end**, onde eu possa evoluir tecnicamente e contribuir com soluções bem estruturadas em equipe.
+
+---
+
+## 📫 Contato
+- 📧 E-mail: gustavosousa4@outlook.com.br  
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavoteixeiraa  
